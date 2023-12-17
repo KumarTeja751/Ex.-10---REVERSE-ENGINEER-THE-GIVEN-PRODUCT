@@ -45,7 +45,7 @@
 ![kunai-3d-rendering-isolated-on-white-background-GDYNHB](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/c2c088a1-1f27-4d1e-88f7-8d7a7bbcc12e)
 
 ### Output:
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/c226f91f-2c31-438c-97f4-fc84f72d46d8)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/56fc375c-dcfd-4eed-bce1-a8edf0e1d17d)
 
 
 ### Name: KUMARTEJA NARAMALA
