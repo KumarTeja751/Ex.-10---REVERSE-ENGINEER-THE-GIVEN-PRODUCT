@@ -18,7 +18,8 @@
 
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/5bafbc04-cba1-4f54-912e-2da7bc25bfd0)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/ab716f03-d1c6-4a03-ae00-c80f6a37f928)
+
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
 ![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/ef0e9092-2f22-475b-a929-3e791b0c2efc)
