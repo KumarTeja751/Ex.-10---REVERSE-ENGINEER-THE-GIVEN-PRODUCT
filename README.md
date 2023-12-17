@@ -28,9 +28,9 @@
 ![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/05abadec-5b16-44a2-bec8-d17cd43dfe4c)
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/a3a85ae4-6d66-41ce-a01c-49c083e342e9)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/81438ae4-c7ef-4129-b6c8-e763cc20c0b3)
 
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/b658e84f-a22c-4ad3-8a93-0a1273a75467)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/87c5302d-5113-41ed-aed5-0ef266bbf202)
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
@@ -42,7 +42,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/7bab16c8-a81b-4cc0-b949-c554c2a0049e)
+![kunai-3d-rendering-isolated-on-white-background-GDYNHB](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/c2c088a1-1f27-4d1e-88f7-8d7a7bbcc12e)
 
 ### Output:
 ![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/c226f91f-2c31-438c-97f4-fc84f72d46d8)
