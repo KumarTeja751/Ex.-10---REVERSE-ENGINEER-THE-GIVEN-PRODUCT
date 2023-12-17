@@ -22,10 +22,10 @@
 
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/ef0e9092-2f22-475b-a929-3e791b0c2efc)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/058e1444-2225-4321-923e-e2c53def2a7d)
 
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
-![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/1609cec7-f601-47d2-a72f-5cae901df80d)
+![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/05abadec-5b16-44a2-bec8-d17cd43dfe4c)
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
 ![image](https://github.com/saiganesh2006/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742342/a3a85ae4-6d66-41ce-a01c-49c083e342e9)
