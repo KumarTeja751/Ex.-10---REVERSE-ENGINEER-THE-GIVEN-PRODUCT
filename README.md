@@ -14,7 +14,7 @@
 ### Step 1:- Check all Electrical connections.
 
 ### Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
-![image](https://github.com/KumarTeja751/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144947756/a3c75e3a-b115-4362-9dc1-6dbc0ae15c19)
+![Uploading image.png…]()
 
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
